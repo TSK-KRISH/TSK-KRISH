@@ -1,6 +1,6 @@
 - 👋 Hello world!
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently interested in AI and Machine learning
+- 🌱 I’m currently interested in Blockchain and ML
 - 👯 I’m looking forward to work on innovative projects
 - 📫 How to reach me: shialeshkrish@gmail.com
 - LinkedIN - https://www.linkedin.com/in/sree-krishnan-t-735567221/
