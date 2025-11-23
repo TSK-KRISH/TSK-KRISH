@@ -1,9 +1,8 @@
 - 👋 Hello world!
-- 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently interested in Blockchain and ML
+- 🔭 I’m currently a Data Engineer, working on Azure, Databricks, and Informatica
 - 👯 I’m looking forward to work on innovative projects
 - 📫 How to reach me: shialeshkrish@gmail.com
-- LinkedIN - https://www.linkedin.com/in/sree-krishnan-t-735567221/
+- LinkedIN - https://www.linkedin.com/in/sree-krishnan-t/
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TSK-KRISH&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=09DD03&background=0C0C0C&stroke=DD2727&ring=DD571B&fire=DD2727&currStreakNum=DBDDDB&sideNums=12FFCC)](https://git.io/streak-stats)
